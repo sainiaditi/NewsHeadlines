@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:android="http://schemas.android.com/apk/res/android" >
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    tools:context="com.example.android.newsheadlines.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/timesofindia"
+            android:text="The Times Of India" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/abcnews"
+            android:text="ABC News" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/thehindu"
+            android:text="The Hindu" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/dailymail"
+            android:text="Daily Mail" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/businessinsider"
+            android:text="Business Insider" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/bccsports"
+            android:text="BCC Sports" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/buzzfeed"
+            android:text="Buzzfeed" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/cnbc"
+            android:text="CNBC" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/cnn"
+            android:text="CNN" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/fortune"
+            android:text="Fortune" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/hackernews"
+            android:text="Hacker News" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/thewallstreetjournal"
+            android:text="The Wall Street Journal" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/mtvnews"
+            android:text="MTV News" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/engadget"
+            android:text="Engadget" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:orientation="horizontal">
+        <ImageView
+            style="@style/image" />
+        <TextView
+            style="@style/mainpage"
+            android:id="@+id/googlenews"
+            android:text="Google News" />
+    </LinearLayout>
+    <View
+        style="@style/view" />
+
+
+    </LinearLayout>
+    </ScrollView>
